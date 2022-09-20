@@ -10,6 +10,7 @@ class Computer1{
         this.os = null;
         this.memory = 0;
         System.out.println("PC가 생성되었습니다.");
+        System.out.println("바뀜");
     }
 
     public void show(){
